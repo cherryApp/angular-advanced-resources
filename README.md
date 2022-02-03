@@ -24,8 +24,9 @@
 ## Recommended Free Tutorials
 
 ### Authentication / Authorization
-- [Auth0 - angular2-jwt](https://github.com/auth0/angular2-jwt)
 - [Sample Application](https://github.com/cherryApp/angular-advanced-course/tree/master/chapter01-auth)
+- [Auth0 - Backend settings](https://auth0.com/docs/quickstart/backend/nodejs/01-authorization)
+- [Auth0 - angular2-jwt](https://github.com/auth0/angular2-jwt)
 
 ### State Management
 - [NgRX - Getting Started](https://ngrx.io/guide/store)
